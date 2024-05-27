@@ -1,3 +1,3 @@
-### rn-assignment for my project.
+### React Native Template
 Using react native
 
